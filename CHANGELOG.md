@@ -1,5 +1,11 @@
 # @perqia/lemlist-sdk
 
+## 0.0.4
+
+### Patch Changes
+
+- 2dbf03d: chagne package scope
+
 ## 0.0.3
 
 ### Patch Changes
