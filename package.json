@@ -1,5 +1,5 @@
 {
-  "name": "lemlist-node",
+  "name": "@perqia/lemlist-sdk",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -8,13 +8,27 @@
     "build": "npm run clean && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "John Thomas Shaw Valanidas",
   "license": "ISC",
-  "description": "",
+  "description": "A lightweight node SDK for the lemlist API",
   "devDependencies": {
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "@changesets/cli": "2.29.8"
   },
   "dependencies": {
     "valibot": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perqia/lemlist-sdk.git"
+  },
+  "keywords": [
+    "api",
+    "sdk",
+    "lemlist"
+  ],
+  "bugs": {
+    "url": "https://github.com/Perqia/lemlist-sdk/issues"
+  },
+  "homepage": "https://github.com/Perqia/lemlist-sdk#readme"
 }
