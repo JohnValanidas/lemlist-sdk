@@ -1,5 +1,11 @@
 # @perqia/lemlist-sdk
 
+## 0.0.5
+
+### Patch Changes
+
+- a6d4009: Create webhook calls (get, create, delete)
+
 ## 0.0.4
 
 ### Patch Changes
